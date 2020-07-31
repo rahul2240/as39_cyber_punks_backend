@@ -1,0 +1,10 @@
+node_modules
+src/static/js/jquery.js
+npm-debug.log
+*.DS_Store
+./package-lock.json
+APIKEY.txt
+SESSIONKEY.txt
+settings.json
+src/.ep_initialized
+var/
